@@ -16,14 +16,14 @@
     "sanitize-dashboard": "node sanitize_dashboards.js"
   },
   "devDependencies": {
-    "@actions/core": "^1.4.0",
+    "@actions/core": "^1.9.1",
     "ajv": "^8.4.0",
     "glob": "^7.1.7",
     "is-image": "^3.0.0",
     "jest": "^27.0.5",
     "js-yaml": "^4.1.0",
-    "node-fetch": "^2.6.1",
-    "parse-link-header": "^1.0.1",
+    "node-fetch": "^2.6.7",
+    "parse-link-header": "^2.0.0",
     "prettier": "2.3.2",
     "uuid": "^8.3.2"
   }
